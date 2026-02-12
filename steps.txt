@@ -1,3 +1,20 @@
 created a file.
 
 This change is using feature branch
+
+
+**steps**
+touch steps.txt
+added content to file
+git add
+git commit -m "message"
+git push
+
+using branch
+created and switched to feature branch
+updated file
+git add
+git commit
+git push origin feature-branch
+
+created pull request and merged it
